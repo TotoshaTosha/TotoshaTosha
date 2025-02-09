@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TotoshaTosha
-- 👀 I’m interested in learn how to do websites and apps
+- 👀 I’m interested in learning algorithms and how to do apps 
 - ☕ I’m currently learning Java!
 
 <!---
